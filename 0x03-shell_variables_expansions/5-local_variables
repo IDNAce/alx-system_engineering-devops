@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $(set -0 posix; set) printenv declare -F
+set
